@@ -6,7 +6,7 @@ This project focuses on detecting, tracking and counting vehicles by using Blob 
 ** What is Blob Detection? **
 A Blob is a group of connected pixels in an image that share some common property ( E.g grayscale value ). Blob detection methods are aimed at detecting regions in a digital image that differ in properties, such as brightness or color, compared to surrounding regions. Informally, a blob is a region of an image in which some properties are constant or approximately constant; all the points in a blob can be considered in some sense to be similar to each other. The most common method for blob detection is convolution.
 
-** Installtion **
+**Installtion**
 Install requirements.txt with following dependancies
 ```
 opencv-python-headless==4.2.0.32
