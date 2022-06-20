@@ -1,4 +1,4 @@
-# Vehicle_Detection_and_Counting
+# Vehicle_Detection_and_Counting Flask Python Web Application
 Vehicle Detection and counting
 This project focuses on detecting, tracking and counting vehicles by using Blob Detection tool. Pillow (Python imaging library) is used to process images from intial format to various levels described below.
 > The accuray is approximately 85% depending on input footage. 
